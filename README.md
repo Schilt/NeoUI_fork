@@ -1,3 +1,8 @@
+# NeoUIfork
+I copied or forked this cool program for iOS and hope to try it out!
+Below is NeoUI which I forked and many thanks to it!
+
+
 # NeoUI
 SwiftUI interface for the neopixel control program.
 
